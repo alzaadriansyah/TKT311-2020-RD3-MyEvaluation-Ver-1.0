@@ -6,3 +6,4 @@ Pada MyEvaluation terdapat quiz yang akan diselesaikan oleh pelajar untuk menguk
 untuk mengetahui tingakt kepahaman materi, para pelajar harus menjawab soal kuis yang diberikan oleh pengajar.
 untuk membantu nilai tambah, pelajar harus menjawab soal quis dengan benar
 agar mudah memahami materi, pelajar harus belajar kembali melalui link rekomendasi yang diberikan oleh pengajar
+Aplikasi my evaluation membantu pengajar dalam mengetahui tingkat pemahaman materi para pelajar
